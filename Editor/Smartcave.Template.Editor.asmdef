@@ -1,7 +1,7 @@
 {
-    "name": "OmiyaGames.Template.Editor",
+    "name": "Smartcave.Template.Editor",
     "references": [
-        "OmiyaGames.Template"
+        "Smartcave.Template"
     ],
     "includePlatforms": [
         "Editor"
@@ -12,5 +12,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }
